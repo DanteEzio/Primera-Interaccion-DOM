@@ -191,7 +191,7 @@ main {
               text-align: left;
               align-items: center;
               word-wrap: break-word;
-              margin-left: -50px;
+              margin-left: -100px;
             }
             h2 {
               font-weight: bold;
@@ -202,7 +202,7 @@ main {
               color: #fff;
               text-align: left;
               word-wrap: break-word;
-              margin-left: -50px;
+              margin-left: -100px;
             }
             p {
               padding: 10px 0;
@@ -213,7 +213,7 @@ main {
               color: #fff;
               text-align: left;
               word-wrap: break-word;
-              margin-left: -50px;
+              margin-left: -100px;
             }
             button {
               font-weight: bold;
@@ -224,7 +224,7 @@ main {
               border-radius: 0;
               display: flex;
               justify-content: flex-start;
-              // margin-left: -100px;
+              margin-left: -100px;
               margin-bottom: 80px;
 
               &:hover {
