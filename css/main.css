@@ -88,6 +88,9 @@ main .carousel-inicio .carousel .carousel-inner .carousel-imagen-1 {
   background-repeat: no-repeat;
   background-position: 46% 0px;
 }
+main .carousel-inicio .carousel .carousel-inner .carousel-imagen-1 .carousel-caption {
+  width: 550px;
+}
 main .carousel-inicio .carousel .carousel-inner .carousel-imagen-1 .carousel-caption h1 {
   font-weight: bold;
   text-transform: uppercase;
